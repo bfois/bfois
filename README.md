@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/brian-fois/
 - I´m living in Argentina, South America.
 -->
+<div>
+  <a href="https://www.instagram.com/foisbraian/">Instagram</a>
+</div>
