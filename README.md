@@ -1,15 +1,12 @@
-### Hi there 👋
+Hi there! 👋 I'm Brian Fois
+I'm a Data Analyst passionate about transforming raw data into valuable insights. My expertise includes Python, SQL, and Power BI, and I enjoy working with statistical models and visualizations to support decision-making.
 
-<!--
-**bfois/bfois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Reacts Proyects
-- 🌱 I’m currently learning Developer Web
-- 📫 How to reach me: https://www.linkedin.com/in/brian-fois/
-- I´m living in Argentina, South America.
--->
-<div>
-  <a href="https://www.instagram.com/foisbraian/">Instagram</a>
-</div>
+🚀 What I do
+📊 Data Analysis & Visualization – Extracting insights using Power BI, Python (Pandas, Matplotlib, Seaborn), and SQL
+🛠️ Database Management – Writing efficient SQL queries for data extraction and transformation
+🌱 What I'm learning
+Advanced Machine Learning techniques
+Optimizing ETL processes for large datasets
+📫 Let's connect!
+💼 LinkedIn: https://www.linkedin.com/in/brian-fois/
+📸 Instagram: https://www.instagram.com/foisbraian/
